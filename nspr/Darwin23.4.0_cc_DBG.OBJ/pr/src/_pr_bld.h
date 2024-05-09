@@ -1,0 +1,3 @@
+#define _BUILD_STRING "2024-05-08 21:29:46"
+#define _BUILD_TIME 1715221786000000LL
+#define _PRODUCTION "libnspr4.dylib"
